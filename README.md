@@ -1,8 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mokuichi147&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokuichi147" />
-</a>
+![trophy](https://github-profile-trophy.vercel.app/?username=Mokuichi147)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mokuichi147)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mokuichi147&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokuichi147&layout=compact)
